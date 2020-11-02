@@ -1,8 +1,15 @@
-https://loizenai.com/springboot-react-mysql-crud-example/
+https://loizenai.com/reactjs-nodejs-crud-mysql/
 
-Tutorial: SpringBoot + React + MySQL: SpringBoot React.js CRUD Example
+In the tutorial, I introduce how to build an “React.js Nodejs CRUD PostgreSQL Example” project with the help of Ajax to POST/GET/PUT/DELETE requests with step by step coding examples:
 
-In the tutorial, I introduce how to build an “SpringBoot React.js CRUD MySQL Example” project with the help of SpringData JPA for POST/GET/PUT/DELETE requests with step by step coding examples:
+– Nodejs project produces CRUD RestAPIs with PostgreSQL database using the supporting of Sequelize ORM.
+– React.js project will consume the Nodejs CRUD RestAPIs by Ajax then show up on Reactjs component’s views.
 
-– SpringBoot project produces CRUD RestAPIs with MySQL database using the supporting of Spring Data JPA. – React.js project will consume the SpringBoot CRUD RestAPIs by Ajax then show up on Reactjs component’s views.
+What will we do?
 
+– I draw a fullstack overview Diagram Architecture from React.js Frontend to PostgreSQL database through Nodejs RestAPI backend.
+– Develop Nodejs CRUD RestAPIs with the supporting of Sequelize ORM.
+– Implement Reactjs CRUD application with Ajax fetching APIs to do CRUD request (Post/Get/Put/Delete) to Nodejs Backend APIs.
+– I create a testsuite with a number of integrative testcases with CRUD RestAPI requests from Reactjs to do CRUD requests to Nodejs RestAPIs Server and save/retrieve data to PostgreSQL database.
+
+https://loizenai.com/reactjs-nodejs-crud-mysql/
